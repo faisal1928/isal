@@ -60,7 +60,7 @@ def banner():
 	 \/      \/     \/      \/     \/        ''' + W)
 	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'Ariefisal')
         print('\n' + G + '[>]' + C + ' Alamat : ' + W + 'Gebang')
-        print('\n' + G + '[>]' + C + ' github : ' + W + 'git clone https://github.com/faisal1928/isal
+        print('\n' + G + '[>]' + C + ' github : ' + W + 'git clone https://github.com/faisal1928/isal')
 	print(G + '[>]' + C + ' Version    : ' + W + version + '\n')
 
 def ver_check():

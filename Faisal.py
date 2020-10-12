@@ -58,7 +58,9 @@ def banner():
  \___ \ \  ___/\  ___/ |    < \  ___/ |  | \/
 /____  > \___  >\___  >|__|_ \ \___  >|__|
 	 \/      \/     \/      \/     \/        ''' + W)
-	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'thewhiteh4t')
+	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'Ariefisal')
+        print('\n' + G + '[>]' + C + ' Alamat : ' + W + 'Gebang')
+        print('\n' + G + '[>]' + C + ' github : ' + W + 'git clone https://github.com/faisal1928/isal
 	print(G + '[>]' + C + ' Version    : ' + W + version + '\n')
 
 def ver_check():
